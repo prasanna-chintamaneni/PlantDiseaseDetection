@@ -1,7 +1,7 @@
 import streamlit as st
 import tensorflow as tf
 import numpy as np
-import cv2.cv2 as cv2
+import cv2
 from tensorflow.keras.preprocessing.image import img_to_array
 
 # Load the trained model
